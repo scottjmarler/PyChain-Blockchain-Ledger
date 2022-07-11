@@ -86,8 +86,17 @@ https://courses.bootcampspot.com/courses/1251/assignments/25280?module_item_id=5
 
 
 
+![full_app](https://user-images.githubusercontent.com/96508083/178326165-26cf9e28-27db-4eb3-be15-7b02ac3aa1a0.png)
+
+![ledger](https://user-images.githubusercontent.com/96508083/178326191-a92de7c5-fa72-4b67-9bf1-48025a9e89df.png)
+
+![text_areas](https://user-images.githubusercontent.com/96508083/178326204-4ddb8c59-2a8c-4267-93b0-7fb48df58a52.png)
+
+![validate](https://user-images.githubusercontent.com/96508083/178326215-d026e120-4cc1-4e08-9179-a8257935422b.png)
 
 
+
+https://user-images.githubusercontent.com/96508083/178326643-b6f64b98-d0ce-4882-96fb-72d87b12526b.mov
 
 
 
